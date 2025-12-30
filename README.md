@@ -1,5 +1,4 @@
 <div align="">
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lightrain-a.lightrain-a" />
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=此人真的很懒,啥都没留;" />
   </h1>
@@ -15,5 +14,6 @@
     <a href="https://moeary.github.io/">
       <img src="https://img.shields.io/badge/Blog-Moeary-blue?style=flat-square" alt="Blog">
     </a>
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lightrain-a.lightrain-a" />
   </div>
 </div>
