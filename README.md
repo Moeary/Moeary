@@ -5,9 +5,9 @@
 
   <h3>本人是克莱登大学计算机系高菜生,不擅长唱、跳、rap、篮球</h3>
   
-  [![Moeary-github](https://github-readme-stats-gilt-two-71.vercel.app/api?username=Moeary)](https://github.com/anuraghazra/github-readme-stats)
+  [![Moeary-github](https://github-readme-stats-l8gl8g6u8-moearys-projects.vercel.app/api?username=Moeary)](https://github.com/anuraghazra/github-readme-stats)
 
-  <div align=""> <img src="https://github-readme-stats-gilt-two-71.vercel.app/api/top-langs/?username=Moeary&theme=graywhite" /> </div>
+  <div align=""> <img src="https://github-readme-stats-l8gl8g6u8-moearys-projects.vercel.app/api/top-langs/?username=Moeary&theme=graywhite" /> </div>
 
   <div align="">
     我的个人博客:
