@@ -7,7 +7,7 @@
   
   [![Moeary-github](https://github-readme-stats-gilt-two-71.vercel.app/api?username=Moeary)]
 
-  <div align=""> <img src="https://github-readme-stats-gilt-two-71.vercel.app/api/top-langs/?username=Moeary&theme=graywhite" /> </div>
+  <div align=""> <img src="https://github-readme-stats-l8gl8g6u8-moearys-projects.vercel.app/api/top-langs/?username=Moeary&theme=graywhite" /> </div>
 
   <div align="">
     我的个人博客:
