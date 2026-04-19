@@ -17,5 +17,5 @@
   <a href="https://moeary.github.io/">
     <img src="https://img.shields.io/badge/Blog-Moeary-blue?style=flat-square" alt="Blog">
   </a>
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=moeary.moeary" />
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lightrain-a.lightrain-a" />
 </div>
