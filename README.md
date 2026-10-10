@@ -16,8 +16,6 @@
 
 # Hi, I'm Moeary.
 
-**让想法穿过代码，成为可用的APP。**
-
 </div>
 
 <br>
@@ -57,5 +55,4 @@
 
 <p align="center">
   <samp>STILL CURIOUS. STILL BUILDING.</samp><br>
-  <sub>离开终端之后：World.Excute(me) </sub>
 </p>
